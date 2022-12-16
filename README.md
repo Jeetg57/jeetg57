@@ -1,4 +1,4 @@
-### Hi there 👋 https://wakatime.com/badge/user/828a0150-1863-4c62-baff-1d3d14d5e392.svg
+### Hi there 👋 [![wakatime](https://wakatime.com/badge/user/828a0150-1863-4c62-baff-1d3d14d5e392.svg)
 
 <!--
 **Jeetg57/jeetg57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
